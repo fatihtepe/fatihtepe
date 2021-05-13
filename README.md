@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatihtepe)  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihtepe)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ![](https://komarev.com/ghpvc/?username=fatihtepe)
