@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihtepe&show_icons=true&theme=tokyonight)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihtepe&show_icons=true&theme=onedark)<br>
 ![](https://komarev.com/ghpvc/?username=fatihtepe)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/elaredkan)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/elaredkan) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fatihtepe/) 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatihtepe)  
+
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
