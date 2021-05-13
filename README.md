@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fatihtepe@gmail.com
 
 - If you have any Queries or Suggestions, feel free to reach out to me.<br>
-- You can show some   ❤️  by starring some of the repositories 😄 
+- You can show some   ❤️   by starring some of the repositories 😄 
 
 
 <!--[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
