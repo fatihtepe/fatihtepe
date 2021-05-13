@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
 - 📫 How to reach me: fatihtepe@gmail.com
 
-- If you have any Queries or Suggestions, feel free to reach out to me.<br>
+- Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
 - You can show some   ❤️   by starring some of the repositories 😄 
 
 
