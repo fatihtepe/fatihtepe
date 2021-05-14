@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
 - 📫 How to reach me: fatihtepe@gmail.com
 - 👯 I’m looking for a job to develop myself and company.
+- 🌱 I’m currently learning Python, Linux, SQL, Git&GitHub, HTML, CSS, SDLC, Agile,          Jira.
 - Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
 - You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
 
