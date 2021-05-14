@@ -1,7 +1,8 @@
-![Screen Shot 2021-05-14 at 1 57 09 PM](https://user-images.githubusercontent.com/79118602/118310197-4803ec00-b4bc-11eb-820f-92c291e1f516.png)
 
-### Hi there 👋
 
+![Screen Shot 2021-05-14 at 5 26 49 PM](https://user-images.githubusercontent.com/79118602/118333376-983d7700-b4d9-11eb-8070-3d92d6cfcc70.png) <br>
+DevOps | Cloud Engineer <br>
+Cloud Engineer, certified as AWS Cloud Solutions Architect and Cloud Practitioner. Experienced and skilled with software and Cloud tools in Agile environment.Enthusiastic DevOps eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Believes in the importance of learning new things every day. A lifelong learner. Motivated to learn, grow and excel in IT industry.
 <!--
 **fatihtepe/fatihtepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +21,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=fatihtepe)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/elaredkan)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
+### Hi there 👋
 - 📫 How to reach me: fatihtepe@gmail.com
 - 👯 I’m looking for a job to develop myself and company.
 - 🌱 I’m currently learning Python, Linux, SQL, Git&GitHub, HTML, CSS, SDLC, Agile,          Jira.
