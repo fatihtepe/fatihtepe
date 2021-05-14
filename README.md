@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=fatihtepe)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/elaredkan)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
+- 👯 I’m looking for a job to develop myself and company.
 - 📫 How to reach me: fatihtepe@gmail.com
 
 - Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
