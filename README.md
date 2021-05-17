@@ -1,6 +1,7 @@
 
 
-![Screen Shot 2021-05-14 at 5 26 49 PM](https://user-images.githubusercontent.com/79118602/118333376-983d7700-b4d9-11eb-8070-3d92d6cfcc70.png) <br>
+<img width="683" alt="Screen Shot 2021-05-16 at 8 05 22 PM" src="https://user-images.githubusercontent.com/79118602/118417447-0d4bb080-b682-11eb-8724-c002f98d0c0b.png">
+ <br>
 
 <!--
 **fatihtepe/fatihtepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
