@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/elaredkan)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
 ### Hi there 👋
-- 📫 How to reach me: fatihtepe@gmail.com
+
 - 🌱 I’m currently learning Python, Linux, SQL, Git&GitHub, HTML, CSS, SDLC, Agile,          Jira.
 - ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
 - You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 - ✨ Believes in the importance of learning new things every day. 
 - A lifelong learner. 
 - ✨ Motivated to learn, grow and excel in IT industry.
-- 👯 I’m looking for a job to develop myself and company.
+- 📫 How to reach me: fatihtepe@gmail.com
+
+<!-- 👯 I’m looking for a job to develop myself and company.-->
 
 <!--[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/elaredkan) 
