@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=fatihtepe)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/elaredkan)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)<br>
-<a href="https://unsplash.com/@fatihtepe">unsplash</a><br>
-<a href="https://fatihtepe.medium.com/">medium</a><br>
+<a href="https://unsplash.com/@fatihtepe">unsplash</a>
+<a href="https://fatihtepe.medium.com/">medium</a>
 <a href="https://fatihtepe.github.io/">fatihtepe.io</a>
 ### Hi there 👋
 
