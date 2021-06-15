@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihtepe&show_icons=true&theme=onedark)<br>
 ![](https://komarev.com/ghpvc/?username=fatihtepe)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/elaredkan)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)<br>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
+[![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/fatihtepe)<br>
 <a href="https://unsplash.com/@fatihtepe">unsplash</a>
 <a href="https://fatihtepe.medium.com/">medium</a>
 <a href="https://fatihtepe.github.io/">fatihtepe.io</a>
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 - A lifelong learner. 
 - ✨ Motivated to learn, grow and excel in IT industry.
 - 📫 How to reach me: fatihtepe@gmail.com
+
 
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
