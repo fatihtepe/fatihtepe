@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - ✨ Motivated to learn, grow and excel in IT industry.
 - 📫 How to reach me: fatihtepe@gmail.com
 
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=fatihtepe&column=9&theme=gruvbox&no-frame=true"/>
 
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
