@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <!--<a href="https://fatihtepe.github.io/">fatihtepe.io</a>-->
 ### Hi there 👋
 
-
-- ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions<br>
+- 🏆 I love technology and like to help others with any knowledge that I have<br> 
+- ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions
 - You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
 - ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
 - Attention to detail and excellent organizational skills. 
