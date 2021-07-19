@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fatihtepe/)
 [![GitHub Follow Badge](https://img.shields.io/github/followers/fatihtepe?label=follow&style=social)](https://github.com/fatihtepe)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://fatihtepe.medium.com/)<br>
-<!--<a href="https://unsplash.com/@fatihtepe">unsplash</a>
-<a href="https://fatihtepe.medium.com/">medium</a>-->
-<!--<a href="https://fatihtepe.github.io/">fatihtepe.io</a>-->
+<!--<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<a href="https://unsplash.com/@fatihtepe">unsplash</a>
+<a href="https://fatihtepe.medium.com/">medium</a>
+<a href="https://fatihtepe.github.io/">fatihtepe.io</a>-->
 ### Hi there 👋
 
 - 🏆 I love technology and like to help others with any knowledge that I have<br> 
@@ -41,7 +42,9 @@ Here are some ideas to get you started:
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=fatihtepe&column=9&theme=gruvbox&no-frame=true"/>
 
-<!--<h3 align="left">Languages and Tools:</h3>
+
+<!--[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15551481/elaredkan)
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
